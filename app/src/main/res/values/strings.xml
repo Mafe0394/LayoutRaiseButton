@@ -2,4 +2,5 @@
     <string name="app_name">LayoutRaiseButton</string>
     <string name="texto_tv">Hola mundo</string>
     <string name="texto_btn">Click</string>
+    <string name="texto_accion">Acción</string>
 </resources>
